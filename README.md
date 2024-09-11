@@ -1,0 +1,1 @@
+Este repositório é para testes realizados durante a minha jornada de aprendizado em realidade virtual. Compartilho resultados de estudos feitos durante minhas pesquisas e aulas na faculdade.
